@@ -3,14 +3,6 @@
   "separate-pull-requests": true,
   "release-type": "go",
   "packages": {
-    ".": {
-      "component": "main",
-      "release-type": "simple",
-      "include-v-in-tag": true,
-      "include-component-in-tag": true,
-      "extra-labels": ["main"],
-      "tag-separator": "@"
-    },
     "cache": {
       "component": "cache",
       "release-type": "go",
