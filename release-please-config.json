@@ -1,0 +1,23 @@
+{
+  "include-component-in-tag": true,
+  "separate-pull-requests": true,
+  "release-type": "go",
+  "packages": {
+    "cache": {
+      "component": "cache",
+      "release-type": "go",
+      "include-v-in-tag": true,
+      "include-component-in-tag": true,
+      "extra-labels": ["cache"],
+      "tag-separator": "@"
+    },
+    "metrics": {
+      "component": "metrics",
+      "release-type": "go",
+      "include-v-in-tag": true,
+      "include-component-in-tag": true,
+      "extra-labels": ["metrics"]
+    }
+  },
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
+}
