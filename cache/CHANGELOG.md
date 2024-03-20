@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.4](https://github.com/coderkakarrot/go-pkg-monorepo-example/compare/cache@v0.0.3...cache@v0.0.4) (2024-03-20)
+
+
+### Bug Fixes
+
+* **cache:** Adds cache fix 3. ([0b0bbe4](https://github.com/coderkakarrot/go-pkg-monorepo-example/commit/0b0bbe482fcc372e85a340b77299bcda45130570))
+
 ## [0.0.3](https://github.com/coderkakarrot/go-pkg-monorepo-example/compare/cache@v0.0.2...cache@v0.0.3) (2024-03-20)
 
 
