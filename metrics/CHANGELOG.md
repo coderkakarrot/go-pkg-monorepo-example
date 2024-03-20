@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.2](https://github.com/coderkakarrot/go-pkg-monorepo-example/compare/metrics-v0.0.1...metrics-v0.0.2) (2024-03-20)
+
+
+### Bug Fixes
+
+* **metrics:** Adds metrics fix 2. ([c3cdfd1](https://github.com/coderkakarrot/go-pkg-monorepo-example/commit/c3cdfd10176f0524141834ebba6ab65a5f276f82))
+
 ## [1.0.1](https://github.com/coderkakarrot/go-pkg-monorepo-example/compare/v1.0.0...v1.0.1) (2024-02-29)
 
 
